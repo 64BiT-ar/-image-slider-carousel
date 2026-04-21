@@ -1,0 +1,8 @@
+.slides img{
+    height: 5vh;
+    display: none;
+}
+
+img.display{
+    display: block;
+}
